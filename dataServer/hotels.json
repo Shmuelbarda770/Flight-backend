@@ -1,0 +1,5714 @@
+[
+    {
+        "hotel_name": "Grand Hyatt New York",
+        "country": "United States",
+        "city": "New York",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 230,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Beverly Hills Hotel",
+        "country": "United States",
+        "city": "Los Angeles",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 300,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "The Ritz-Carlton",
+        "country": "United States",
+        "city": "San Francisco",
+        "room_price_per_adult": 650,
+        "room_price_per_child": 270,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Walt Disney World Swan and Dolphin Resort",
+        "country": "United States",
+        "city": "Orlando",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 180,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "The Langham Chicago",
+        "country": "United States",
+        "city": "Chicago",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Four Seasons Hotel Miami",
+        "country": "United States",
+        "city": "Miami",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 240,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Peninsula Beverly Hills",
+        "country": "United States",
+        "city": "Beverly Hills",
+        "room_price_per_adult": 750,
+        "room_price_per_child": 310,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Venetian Resort",
+        "country": "United States",
+        "city": "Las Vegas",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "The Waldorf Astoria",
+        "country": "United States",
+        "city": "New York",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The St. Regis Aspen Resort",
+        "country": "United States",
+        "city": "Aspen",
+        "room_price_per_adult": 800,
+        "room_price_per_child": 300,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Park Hyatt Washington",
+        "country": "United States",
+        "city": "Washington D.C.",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 230,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Bardessono Hotel and Spa",
+        "country": "United States",
+        "city": "Napa",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Fairmont Scottsdale Princess",
+        "country": "United States",
+        "city": "Scottsdale",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 200,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "Ritz-Carlton Key Biscayne",
+        "country": "United States",
+        "city": "Miami",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Fontaine",
+        "country": "United States",
+        "city": "Kansas City",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 180,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Langham Huntington",
+        "country": "United States",
+        "city": "Pasadena",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Ritz-Carlton Naples",
+        "country": "United States",
+        "city": "Naples",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 230,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "The Beverly Hilton",
+        "country": "United States",
+        "city": "Beverly Hills",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Peninsula New York",
+        "country": "United States",
+        "city": "New York",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 270,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Kimpton Hotel Monaco",
+        "country": "United States",
+        "city": "Chicago",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 200,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Ritz-Carlton Georgetown",
+        "country": "United States",
+        "city": "Washington D.C.",
+        "room_price_per_adult": 650,
+        "room_price_per_child": 270,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Ritz-Carlton Atlanta",
+        "country": "United States",
+        "city": "Atlanta",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Langham New York",
+        "country": "United States",
+        "city": "New York",
+        "room_price_per_adult": 750,
+        "room_price_per_child": 300,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Ritz-Carlton Key Biscayne",
+        "country": "United States",
+        "city": "Key Biscayne",
+        "room_price_per_adult": 650,
+        "room_price_per_child": 270,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "The Fairmont Chicago",
+        "country": "United States",
+        "city": "Chicago",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Drake Hotel",
+        "country": "United States",
+        "city": "Chicago",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 200,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Peninsula Beverly Hills",
+        "country": "United States",
+        "city": "Beverly Hills",
+        "room_price_per_adult": 800,
+        "room_price_per_child": 310,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Phoenician",
+        "country": "United States",
+        "city": "Scottsdale",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Lotte New York Palace",
+        "country": "United States",
+        "city": "New York",
+        "room_price_per_adult": 650,
+        "room_price_per_child": 270,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Westin St. Francis San Francisco",
+        "country": "United States",
+        "city": "San Francisco",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 200,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Ritz-Carlton Amelia Island",
+        "country": "United States",
+        "city": "Amelia Island",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 230,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "The Montage Beverly Hills",
+        "country": "United States",
+        "city": "Beverly Hills",
+        "room_price_per_adult": 750,
+        "room_price_per_child": 310,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Taj Mahal Palace",
+        "country": "India",
+        "city": "Mumbai",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 200,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Oberoi Udaivilas",
+        "country": "India",
+        "city": "Udaipur",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Leela Palace",
+        "country": "India",
+        "city": "New Delhi",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 220,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Taj Lake Palace",
+        "country": "India",
+        "city": "Udaipur",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 300,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Oberoi Rajvilas",
+        "country": "India",
+        "city": "Jaipur",
+        "room_price_per_adult": 650,
+        "room_price_per_child": 270,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Taj Exotica Resort & Spa",
+        "country": "India",
+        "city": "Goa",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "The Leela Kovalam",
+        "country": "India",
+        "city": "Thiruvananthapuram",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 200,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Oberoi Amarvilas",
+        "country": "India",
+        "city": "Agra",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 280,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Taj West End",
+        "country": "India",
+        "city": "Bengaluru",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 180,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The St. Regis Mumbai",
+        "country": "India",
+        "city": "Mumbai",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Ritz-Carlton, Bangalore",
+        "country": "India",
+        "city": "Bengaluru",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 240,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Grand New Delhi",
+        "country": "India",
+        "city": "New Delhi",
+        "room_price_per_adult": 480,
+        "room_price_per_child": 210,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Oberoi Cecil",
+        "country": "India",
+        "city": "Shimla",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 180,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Taj Mahal Hotel",
+        "country": "India",
+        "city": "New Delhi",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Park Hyatt Chennai",
+        "country": "India",
+        "city": "Chennai",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 200,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Oberoi Gurgaon",
+        "country": "India",
+        "city": "Gurgaon",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Taj Mahal Palace",
+        "country": "India",
+        "city": "Mumbai",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 230,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Leela Palace Bengaluru",
+        "country": "India",
+        "city": "Bengaluru",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Oberoi Sukhvilas Spa Resort",
+        "country": "India",
+        "city": "Chandigarh",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 230,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Radisson Blu",
+        "country": "India",
+        "city": "Hyderabad",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 180,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Taj Falaknuma Palace",
+        "country": "India",
+        "city": "Hyderabad",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 300,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Westin Mumbai Garden City",
+        "country": "India",
+        "city": "Mumbai",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 200,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Lalit New Delhi",
+        "country": "India",
+        "city": "New Delhi",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 180,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Taj Bengal",
+        "country": "India",
+        "city": "Kolkata",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Oberoi Vanyavilas",
+        "country": "India",
+        "city": "Ranthambore",
+        "room_price_per_adult": 650,
+        "room_price_per_child": 270,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Taj Fort Aguada Resort & Spa",
+        "country": "India",
+        "city": "Goa",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "The Trident Udaipur",
+        "country": "India",
+        "city": "Udaipur",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 180,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Leela Ambience Convention Hotel",
+        "country": "India",
+        "city": "New Delhi",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Taj Palace",
+        "country": "India",
+        "city": "New Delhi",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 230,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Oberoi Mumbai",
+        "country": "India",
+        "city": "Mumbai",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Radisson Blu Plaza Delhi",
+        "country": "India",
+        "city": "New Delhi",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 200,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Taj Tristar",
+        "country": "India",
+        "city": "Hyderabad",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 180,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Hôtel Parisien",
+        "country": "France",
+        "city": "Paris",
+        "room_price_per_adult": 300,
+        "room_price_per_child": 150,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Château de Versailles",
+        "country": "France",
+        "city": "Versailles",
+        "room_price_per_adult": 350,
+        "room_price_per_child": 175,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Le Grand Hôtel",
+        "country": "France",
+        "city": "Lyon",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Auberge Provençale",
+        "country": "France",
+        "city": "Avignon",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 120,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "Hôtel du Midi",
+        "country": "France",
+        "city": "Toulouse",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Palais des Rêves",
+        "country": "France",
+        "city": "Nice",
+        "room_price_per_adult": 280,
+        "room_price_per_child": 140,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Le Relais du Château",
+        "country": "France",
+        "city": "Lille",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hôtel de Luxe",
+        "country": "France",
+        "city": "Bordeaux",
+        "room_price_per_adult": 320,
+        "room_price_per_child": 160,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Les Jardins de Paris",
+        "country": "France",
+        "city": "Paris",
+        "room_price_per_adult": 270,
+        "room_price_per_child": 135,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hôtel Saint-Germain",
+        "country": "France",
+        "city": "Saint-Germain-en-Laye",
+        "room_price_per_adult": 310,
+        "room_price_per_child": 155,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Le Palais de la Mer",
+        "country": "France",
+        "city": "Marseille",
+        "room_price_per_adult": 290,
+        "room_price_per_child": 145,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Château du Sud",
+        "country": "France",
+        "city": "Montpellier",
+        "room_price_per_adult": 240,
+        "room_price_per_child": 120,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Le Manoir du Lac",
+        "country": "France",
+        "city": "Annecy",
+        "room_price_per_adult": 310,
+        "room_price_per_child": 155,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "Hôtel Belle Époque",
+        "country": "France",
+        "city": "Dijon",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Le Grand Palais",
+        "country": "France",
+        "city": "Strasbourg",
+        "room_price_per_adult": 340,
+        "room_price_per_child": 170,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Hôtel des Artistes",
+        "country": "France",
+        "city": "Lyon",
+        "room_price_per_adult": 260,
+        "room_price_per_child": 130,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "La Maison de Paris",
+        "country": "France",
+        "city": "Paris",
+        "room_price_per_adult": 320,
+        "room_price_per_child": 160,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Le Château des Anges",
+        "country": "France",
+        "city": "Tours",
+        "room_price_per_adult": 280,
+        "room_price_per_child": 140,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hôtel de Charme",
+        "country": "France",
+        "city": "Nantes",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Le Manoir de Bordeaux",
+        "country": "France",
+        "city": "Bordeaux",
+        "room_price_per_adult": 310,
+        "room_price_per_child": 155,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hôtel de la Plage",
+        "country": "France",
+        "city": "Biarritz",
+        "room_price_per_adult": 260,
+        "room_price_per_child": 130,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Le Palais des Vignes",
+        "country": "France",
+        "city": "Toulouse",
+        "room_price_per_adult": 240,
+        "room_price_per_child": 120,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Château de la Côte",
+        "country": "France",
+        "city": "Rennes",
+        "room_price_per_adult": 290,
+        "room_price_per_child": 145,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hôtel du Parc",
+        "country": "France",
+        "city": "Rouen",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 125,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Le Grand Château",
+        "country": "France",
+        "city": "Le Havre",
+        "room_price_per_adult": 270,
+        "room_price_per_child": 135,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hôtel du Palais",
+        "country": "France",
+        "city": "Lille",
+        "room_price_per_adult": 300,
+        "room_price_per_child": 150,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "La Maison du Terroir",
+        "country": "France",
+        "city": "Clermont-Ferrand",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Château de Bordeaux",
+        "country": "France",
+        "city": "Bordeaux",
+        "room_price_per_adult": 330,
+        "room_price_per_child": 165,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Le Manoir de Montmartre",
+        "country": "France",
+        "city": "Paris",
+        "room_price_per_adult": 340,
+        "room_price_per_child": 170,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hôtel de la Ville",
+        "country": "France",
+        "city": "Marseille",
+        "room_price_per_adult": 290,
+        "room_price_per_child": 145,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Château de Lyon",
+        "country": "France",
+        "city": "Lyon",
+        "room_price_per_adult": 270,
+        "room_price_per_child": 135,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Le Palais des Étoiles",
+        "country": "France",
+        "city": "Nice",
+        "room_price_per_adult": 320,
+        "room_price_per_child": 160,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hôtel des Alpes",
+        "country": "France",
+        "city": "Grenoble",
+        "room_price_per_adult": 240,
+        "room_price_per_child": 120,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Le Château de Provence",
+        "country": "France",
+        "city": "Avignon",
+        "room_price_per_adult": 300,
+        "room_price_per_child": 150,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Hôtel du Bord de Mer",
+        "country": "France",
+        "city": "La Rochelle",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Le Grand Palais de Nice",
+        "country": "France",
+        "city": "Nice",
+        "room_price_per_adult": 330,
+        "room_price_per_child": 165,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Hôtel de la Gare",
+        "country": "France",
+        "city": "Lille",
+        "room_price_per_adult": 210,
+        "room_price_per_child": 105,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Ritz London",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 300,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Claridge's",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 650,
+        "room_price_per_child": 280,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Dorchester",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 260,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Savoy",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 650,
+        "room_price_per_child": 270,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Langham",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 230,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Beaumont",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 200,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Hoxton",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 150,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Shangri-La Hotel",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Ned",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 200,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Wellesley",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 220,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Grosvenor House",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 210,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Connaught",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 280,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Royal Horseguards",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 190,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Berkeley",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Rookery",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 160,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Dilly",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 350,
+        "room_price_per_child": 140,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Athenaeum",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 210,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Montcalm",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 200,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Hoxton Shoreditch",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 170,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Lanesborough",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 290,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Rubens at the Palace",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 200,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Waldorf Hilton",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 180,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Marylebone",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 210,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Bloomsbury",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 170,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Soho Hotel",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The London EDITION",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 230,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Four Seasons Hotel London at Park Lane",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 650,
+        "room_price_per_child": 270,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Savoy London",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 300,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Charlotte Street Hotel",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 200,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Grand London",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 210,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Langham London",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 220,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Victoria London",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Hilton London Bankside",
+        "country": "United Kingdom",
+        "city": "London",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 200,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Tel Aviv Grand Hotel",
+        "country": "Israel",
+        "city": "Tel Aviv",
+        "room_price_per_adult": 300,
+        "room_price_per_child": 150,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Jerusalem Royal Inn",
+        "country": "Israel",
+        "city": "Jerusalem",
+        "room_price_per_adult": 350,
+        "room_price_per_child": 175,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Haifa Beach Resort",
+        "country": "Israel",
+        "city": "Haifa",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 125,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Eilat Oasis",
+        "country": "Israel",
+        "city": "Eilat",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 200,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "Nazareth Heritage Hotel",
+        "country": "Israel",
+        "city": "Nazareth",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Dead Sea Luxury Suites",
+        "country": "Israel",
+        "city": "Dead Sea",
+        "room_price_per_adult": 350,
+        "room_price_per_child": 175,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Tel Aviv Beachfront Hotel",
+        "country": "Israel",
+        "city": "Tel Aviv",
+        "room_price_per_adult": 320,
+        "room_price_per_child": 160,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Jerusalem Old City Hotel",
+        "country": "Israel",
+        "city": "Jerusalem",
+        "room_price_per_adult": 330,
+        "room_price_per_child": 165,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Haifa Harbor Hotel",
+        "country": "Israel",
+        "city": "Haifa",
+        "room_price_per_adult": 270,
+        "room_price_per_child": 135,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Eilat Coral Beach",
+        "country": "Israel",
+        "city": "Eilat",
+        "room_price_per_adult": 420,
+        "room_price_per_child": 210,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "Nazareth Vista Hotel",
+        "country": "Israel",
+        "city": "Nazareth",
+        "room_price_per_adult": 240,
+        "room_price_per_child": 120,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Dead Sea Retreat",
+        "country": "Israel",
+        "city": "Dead Sea",
+        "room_price_per_adult": 360,
+        "room_price_per_child": 180,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Tel Aviv Boutique Hotel",
+        "country": "Israel",
+        "city": "Tel Aviv",
+        "room_price_per_adult": 310,
+        "room_price_per_child": 155,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Jerusalem Garden Hotel",
+        "country": "Israel",
+        "city": "Jerusalem",
+        "room_price_per_adult": 340,
+        "room_price_per_child": 170,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Haifa Central Hotel",
+        "country": "Israel",
+        "city": "Haifa",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 125,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Eilat Seaside Resort",
+        "country": "Israel",
+        "city": "Eilat",
+        "room_price_per_adult": 430,
+        "room_price_per_child": 215,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Nazareth Star Hotel",
+        "country": "Israel",
+        "city": "Nazareth",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Dead Sea Spa Hotel",
+        "country": "Israel",
+        "city": "Dead Sea",
+        "room_price_per_adult": 370,
+        "room_price_per_child": 185,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Tel Aviv Marina Hotel",
+        "country": "Israel",
+        "city": "Tel Aviv",
+        "room_price_per_adult": 330,
+        "room_price_per_child": 165,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Jerusalem Heritage Inn",
+        "country": "Israel",
+        "city": "Jerusalem",
+        "room_price_per_adult": 360,
+        "room_price_per_child": 180,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Haifa Bay View Hotel",
+        "country": "Israel",
+        "city": "Haifa",
+        "room_price_per_adult": 280,
+        "room_price_per_child": 140,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Eilat Luxury Palace",
+        "country": "Israel",
+        "city": "Eilat",
+        "room_price_per_adult": 440,
+        "room_price_per_child": 220,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "Nazareth Hilltop Hotel",
+        "country": "Israel",
+        "city": "Nazareth",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 125,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Dead Sea Serenity Hotel",
+        "country": "Israel",
+        "city": "Dead Sea",
+        "room_price_per_adult": 380,
+        "room_price_per_child": 190,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Tel Aviv Skyview Hotel",
+        "country": "Israel",
+        "city": "Tel Aviv",
+        "room_price_per_adult": 340,
+        "room_price_per_child": 170,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Jerusalem Panorama Hotel",
+        "country": "Israel",
+        "city": "Jerusalem",
+        "room_price_per_adult": 370,
+        "room_price_per_child": 185,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Haifa Luxury Stay",
+        "country": "Israel",
+        "city": "Haifa",
+        "room_price_per_adult": 290,
+        "room_price_per_child": 145,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Eilat Sunset Hotel",
+        "country": "Israel",
+        "city": "Eilat",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 225,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "Nazareth Comfort Hotel",
+        "country": "Israel",
+        "city": "Nazareth",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Dead Sea Wellness Hotel",
+        "country": "Israel",
+        "city": "Dead Sea",
+        "room_price_per_adult": 390,
+        "room_price_per_child": 195,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Tel Aviv Elegant Hotel",
+        "country": "Israel",
+        "city": "Tel Aviv",
+        "room_price_per_adult": 350,
+        "room_price_per_child": 175,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Jerusalem Modern Inn",
+        "country": "Israel",
+        "city": "Jerusalem",
+        "room_price_per_adult": 380,
+        "room_price_per_child": 190,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Haifa Seaside Hotel",
+        "country": "Israel",
+        "city": "Haifa",
+        "room_price_per_adult": 270,
+        "room_price_per_child": 135,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Eilat Beachfront Resort",
+        "country": "Israel",
+        "city": "Eilat",
+        "room_price_per_adult": 460,
+        "room_price_per_child": 230,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "Nazareth City Hotel",
+        "country": "Israel",
+        "city": "Nazareth",
+        "room_price_per_adult": 240,
+        "room_price_per_child": 120,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Dead Sea Relaxation Hotel",
+        "country": "Israel",
+        "city": "Dead Sea",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 200,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Tel Aviv Horizon Hotel",
+        "country": "Israel",
+        "city": "Tel Aviv",
+        "room_price_per_adult": 360,
+        "room_price_per_child": 180,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Jerusalem Scenic Inn",
+        "country": "Israel",
+        "city": "Jerusalem",
+        "room_price_per_adult": 390,
+        "room_price_per_child": 195,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Hotel Danieli",
+        "country": "Italy",
+        "city": "Venice",
+        "room_price_per_adult": 800,
+        "room_price_per_child": 350,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel de Russie",
+        "country": "Italy",
+        "city": "Rome",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 300,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The St. Regis Florence",
+        "country": "Italy",
+        "city": "Florence",
+        "room_price_per_adult": 650,
+        "room_price_per_child": 280,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Belmond Hotel Caruso",
+        "country": "Italy",
+        "city": "Ravello",
+        "room_price_per_adult": 750,
+        "room_price_per_child": 320,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Hassler",
+        "country": "Italy",
+        "city": "Rome",
+        "room_price_per_adult": 720,
+        "room_price_per_child": 310,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Palazzo Avino",
+        "country": "Italy",
+        "city": "Ravello",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 300,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Bristol Palace",
+        "country": "Italy",
+        "city": "Genoa",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Grand Hotel Tremezzo",
+        "country": "Italy",
+        "city": "Lake Como",
+        "room_price_per_adult": 800,
+        "room_price_per_child": 350,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Gritti Palace",
+        "country": "Italy",
+        "city": "Venice",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 300,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Four Seasons Hotel Milano",
+        "country": "Italy",
+        "city": "Milan",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Eden",
+        "country": "Italy",
+        "city": "Rome",
+        "room_price_per_adult": 750,
+        "room_price_per_child": 320,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Villa d'Este",
+        "country": "Italy",
+        "city": "Lake Como",
+        "room_price_per_adult": 850,
+        "room_price_per_child": 370,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Savoy",
+        "country": "Italy",
+        "city": "Florence",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Westin Excelsior",
+        "country": "Italy",
+        "city": "Rome",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 240,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "J.K. Place Roma",
+        "country": "Italy",
+        "city": "Rome",
+        "room_price_per_adult": 650,
+        "room_price_per_child": 270,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel de la Ville",
+        "country": "Italy",
+        "city": "Rome",
+        "room_price_per_adult": 580,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Grand Hotel Plaza",
+        "country": "Italy",
+        "city": "Rome",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Ritz-Carlton, Milan",
+        "country": "Italy",
+        "city": "Milan",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 300,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel San Clemente Palace",
+        "country": "Italy",
+        "city": "Venice",
+        "room_price_per_adult": 750,
+        "room_price_per_child": 320,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Brunelleschi",
+        "country": "Italy",
+        "city": "Florence",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Bulgari Hotel Milano",
+        "country": "Italy",
+        "city": "Milan",
+        "room_price_per_adult": 650,
+        "room_price_per_child": 280,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Grand Hotel Majestic",
+        "country": "Italy",
+        "city": "Bologna",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 240,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Splendide Royal",
+        "country": "Italy",
+        "city": "Rome",
+        "room_price_per_adult": 650,
+        "room_price_per_child": 270,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Art Deco",
+        "country": "Italy",
+        "city": "Rome",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 180,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Laurin",
+        "country": "Italy",
+        "city": "Florence",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 200,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Hotel L'Orologio",
+        "country": "Italy",
+        "city": "Florence",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Duomo",
+        "country": "Italy",
+        "city": "Florence",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 230,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Centurion Palace",
+        "country": "Italy",
+        "city": "Venice",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Ritz Carlton",
+        "country": "Italy",
+        "city": "Milan",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 300,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Palazzo Santa Croce",
+        "country": "Italy",
+        "city": "Florence",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Palazzo Navona",
+        "country": "Italy",
+        "city": "Rome",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel NH Collection Roma Palazzo Cinquecento",
+        "country": "Italy",
+        "city": "Rome",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 200,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Hotel Castello di Casole",
+        "country": "Italy",
+        "city": "Casole d'Elsa",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 300,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Istanbul Grand Palace",
+        "country": "Turkey",
+        "city": "Istanbul",
+        "room_price_per_adult": 280,
+        "room_price_per_child": 140,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Cappadocia Dream Hotel",
+        "country": "Turkey",
+        "city": "Nevşehir",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 125,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Antalya Beach Resort",
+        "country": "Turkey",
+        "city": "Antalya",
+        "room_price_per_adult": 320,
+        "room_price_per_child": 160,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Izmir Central Hotel",
+        "country": "Turkey",
+        "city": "Izmir",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Bodrum Seaside Hotel",
+        "country": "Turkey",
+        "city": "Bodrum",
+        "room_price_per_adult": 350,
+        "room_price_per_child": 175,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Ankara City View Hotel",
+        "country": "Turkey",
+        "city": "Ankara",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Konya Heritage Hotel",
+        "country": "Turkey",
+        "city": "Konya",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Trabzon Mountain Lodge",
+        "country": "Turkey",
+        "city": "Trabzon",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Bursa Grand Hotel",
+        "country": "Turkey",
+        "city": "Bursa",
+        "room_price_per_adult": 210,
+        "room_price_per_child": 105,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Fethiye Bay View Hotel",
+        "country": "Turkey",
+        "city": "Fethiye",
+        "room_price_per_adult": 270,
+        "room_price_per_child": 135,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Marmaris Beachfront Resort",
+        "country": "Turkey",
+        "city": "Marmaris",
+        "room_price_per_adult": 290,
+        "room_price_per_child": 145,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Side Luxury Suites",
+        "country": "Turkey",
+        "city": "Side",
+        "room_price_per_adult": 310,
+        "room_price_per_child": 155,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Göreme Cave Hotel",
+        "country": "Turkey",
+        "city": "Göreme",
+        "room_price_per_adult": 240,
+        "room_price_per_child": 120,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Kusadasi Seaside Hotel",
+        "country": "Turkey",
+        "city": "Kusadasi",
+        "room_price_per_adult": 320,
+        "room_price_per_child": 160,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Adana City Hotel",
+        "country": "Turkey",
+        "city": "Adana",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Pamukkale Thermal Hotel",
+        "country": "Turkey",
+        "city": "Pamukkale",
+        "room_price_per_adult": 260,
+        "room_price_per_child": 130,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Kocaeli Grand Hotel",
+        "country": "Turkey",
+        "city": "Kocaeli",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Eskisehir City Hotel",
+        "country": "Turkey",
+        "city": "Eskisehir",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Gaziantep Central Hotel",
+        "country": "Turkey",
+        "city": "Gaziantep",
+        "room_price_per_adult": 210,
+        "room_price_per_child": 105,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Ordu Coastal Hotel",
+        "country": "Turkey",
+        "city": "Ordu",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 125,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Samsun Harbor Hotel",
+        "country": "Turkey",
+        "city": "Samsun",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Çeşme Beach Resort",
+        "country": "Turkey",
+        "city": "Çeşme",
+        "room_price_per_adult": 330,
+        "room_price_per_child": 165,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Istanbul Boutique Hotel",
+        "country": "Turkey",
+        "city": "Istanbul",
+        "room_price_per_adult": 300,
+        "room_price_per_child": 150,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Antalya Oasis Resort",
+        "country": "Turkey",
+        "city": "Antalya",
+        "room_price_per_adult": 340,
+        "room_price_per_child": 170,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Izmir Marina Hotel",
+        "country": "Turkey",
+        "city": "Izmir",
+        "room_price_per_adult": 210,
+        "room_price_per_child": 105,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Bodrum Harbor Hotel",
+        "country": "Turkey",
+        "city": "Bodrum",
+        "room_price_per_adult": 360,
+        "room_price_per_child": 180,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Ankara Grand Suites",
+        "country": "Turkey",
+        "city": "Ankara",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Konya Comfort Hotel",
+        "country": "Turkey",
+        "city": "Konya",
+        "room_price_per_adult": 190,
+        "room_price_per_child": 95,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Trabzon Hillside Hotel",
+        "country": "Turkey",
+        "city": "Trabzon",
+        "room_price_per_adult": 240,
+        "room_price_per_child": 120,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Bursa Lakeview Hotel",
+        "country": "Turkey",
+        "city": "Bursa",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Fethiye Sunset Hotel",
+        "country": "Turkey",
+        "city": "Fethiye",
+        "room_price_per_adult": 280,
+        "room_price_per_child": 140,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Marmaris Palace Hotel",
+        "country": "Turkey",
+        "city": "Marmaris",
+        "room_price_per_adult": 300,
+        "room_price_per_child": 150,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Side Coastal Hotel",
+        "country": "Turkey",
+        "city": "Side",
+        "room_price_per_adult": 320,
+        "room_price_per_child": 160,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Göreme Fairy Chimney Hotel",
+        "country": "Turkey",
+        "city": "Göreme",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 125,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Kusadasi Grand Resort",
+        "country": "Turkey",
+        "city": "Kusadasi",
+        "room_price_per_adult": 330,
+        "room_price_per_child": 165,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Adana Palace Hotel",
+        "country": "Turkey",
+        "city": "Adana",
+        "room_price_per_adult": 210,
+        "room_price_per_child": 105,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Pamukkale Spa Resort",
+        "country": "Turkey",
+        "city": "Pamukkale",
+        "room_price_per_adult": 270,
+        "room_price_per_child": 135,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Ritz-Carlton, Cancun",
+        "country": "Mexico",
+        "city": "Cancun",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 200,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Grand Velas Riviera Maya",
+        "country": "Mexico",
+        "city": "Playa del Carmen",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Four Seasons Resort Punta Mita",
+        "country": "Mexico",
+        "city": "Punta Mita",
+        "room_price_per_adult": 650,
+        "room_price_per_child": 270,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "NIZUC Resort & Spa",
+        "country": "Mexico",
+        "city": "Cancun",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 220,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The St. Regis Punta Mita Resort",
+        "country": "Mexico",
+        "city": "Punta Mita",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 300,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Grand Fiesta Americana Coral Beach",
+        "country": "Mexico",
+        "city": "Cancun",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 180,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "W Punta de Mita",
+        "country": "Mexico",
+        "city": "Punta Mita",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 230,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "The Westin Lagunamar Ocean Resort Villas & Spa",
+        "country": "Mexico",
+        "city": "Cancun",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 200,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "Hotel Esencia",
+        "country": "Mexico",
+        "city": "Playa del Carmen",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Rosewood Mayakoba",
+        "country": "Mexico",
+        "city": "Playa del Carmen",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 300,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Banyan Tree Mayakoba",
+        "country": "Mexico",
+        "city": "Playa del Carmen",
+        "room_price_per_adult": 650,
+        "room_price_per_child": 270,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Iberostar Grand Paraiso",
+        "country": "Mexico",
+        "city": "Playa del Carmen",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Secrets Maroma Beach Riviera Cancun",
+        "country": "Mexico",
+        "city": "Playa del Carmen",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 230,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Paradisus Playa del Carmen La Esmeralda",
+        "country": "Mexico",
+        "city": "Playa del Carmen",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 180,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "Grand Velas Los Cabos",
+        "country": "Mexico",
+        "city": "Cabo San Lucas",
+        "room_price_per_adult": 650,
+        "room_price_per_child": 270,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "One&Only Palmilla",
+        "country": "Mexico",
+        "city": "Cabo San Lucas",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 300,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Cape, a Thompson Hotel",
+        "country": "Mexico",
+        "city": "Cabo San Lucas",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 230,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "ME Cabo",
+        "country": "Mexico",
+        "city": "Cabo San Lucas",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 180,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Pueblo Bonito Pacifica Golf & Spa Resort",
+        "country": "Mexico",
+        "city": "Cabo San Lucas",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Xcaret Mexico",
+        "country": "Mexico",
+        "city": "Playa del Carmen",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "The Fairmont Mayakoba",
+        "country": "Mexico",
+        "city": "Playa del Carmen",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Grand Fiesta Americana Los Cabos",
+        "country": "Mexico",
+        "city": "Cabo San Lucas",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 200,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "Casa Dorada Los Cabos Resort & Spa",
+        "country": "Mexico",
+        "city": "Cabo San Lucas",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hacienda Encantada Resort & Residences",
+        "country": "Mexico",
+        "city": "Cabo San Lucas",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 200,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Hilton Los Cabos Beach & Golf Resort",
+        "country": "Mexico",
+        "city": "Cabo San Lucas",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Secrets Puerto Los Cabos Golf & Spa Resort",
+        "country": "Mexico",
+        "city": "Cabo San Lucas",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 230,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Grand Hyatt Playa del Carmen Resort",
+        "country": "Mexico",
+        "city": "Playa del Carmen",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 220,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Royal Hideaway Playacar",
+        "country": "Mexico",
+        "city": "Playa del Carmen",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 230,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Iberostar Tucan",
+        "country": "Mexico",
+        "city": "Playa del Carmen",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 180,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "Catalonia Playa Maroma",
+        "country": "Mexico",
+        "city": "Playa del Carmen",
+        "room_price_per_adult": 350,
+        "room_price_per_child": 150,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Ocean Riviera Paradise",
+        "country": "Mexico",
+        "city": "Playa del Carmen",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 180,
+        "max_guests": 4
+    },
+    {
+        "hotel_name": "Addis Ababa Grand Hotel",
+        "country": "Ethiopia",
+        "city": "Addis Ababa",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 75,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Bahir Dar Lakeview Hotel",
+        "country": "Ethiopia",
+        "city": "Bahir Dar",
+        "room_price_per_adult": 130,
+        "room_price_per_child": 65,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Gondar Royal Inn",
+        "country": "Ethiopia",
+        "city": "Gondar",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 70,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Lalibela Historic Hotel",
+        "country": "Ethiopia",
+        "city": "Lalibela",
+        "room_price_per_adult": 120,
+        "room_price_per_child": 60,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Dire Dawa Central Hotel",
+        "country": "Ethiopia",
+        "city": "Dire Dawa",
+        "room_price_per_adult": 110,
+        "room_price_per_child": 55,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Harar Heritage Hotel",
+        "country": "Ethiopia",
+        "city": "Harar",
+        "room_price_per_adult": 125,
+        "room_price_per_child": 62,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Jimma Garden Hotel",
+        "country": "Ethiopia",
+        "city": "Jimma",
+        "room_price_per_adult": 115,
+        "room_price_per_child": 57,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Awasa Lakeside Hotel",
+        "country": "Ethiopia",
+        "city": "Awasa",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 70,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Mekelle View Hotel",
+        "country": "Ethiopia",
+        "city": "Mekelle",
+        "room_price_per_adult": 130,
+        "room_price_per_child": 65,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Adama Resort",
+        "country": "Ethiopia",
+        "city": "Adama",
+        "room_price_per_adult": 125,
+        "room_price_per_child": 62,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Dessie Palace Hotel",
+        "country": "Ethiopia",
+        "city": "Dessie",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 70,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Goba Highland Hotel",
+        "country": "Ethiopia",
+        "city": "Goba",
+        "room_price_per_adult": 110,
+        "room_price_per_child": 55,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Addis Ababa Luxury Suites",
+        "country": "Ethiopia",
+        "city": "Addis Ababa",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 85,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Bahir Dar Elite Hotel",
+        "country": "Ethiopia",
+        "city": "Bahir Dar",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 70,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Gondar Mountain Lodge",
+        "country": "Ethiopia",
+        "city": "Gondar",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 75,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Lalibela Mountain Retreat",
+        "country": "Ethiopia",
+        "city": "Lalibela",
+        "room_price_per_adult": 130,
+        "room_price_per_child": 65,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Dire Dawa Heritage Hotel",
+        "country": "Ethiopia",
+        "city": "Dire Dawa",
+        "room_price_per_adult": 120,
+        "room_price_per_child": 60,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Harar Grand Hotel",
+        "country": "Ethiopia",
+        "city": "Harar",
+        "room_price_per_adult": 135,
+        "room_price_per_child": 67,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Jimma Grand Suites",
+        "country": "Ethiopia",
+        "city": "Jimma",
+        "room_price_per_adult": 125,
+        "room_price_per_child": 62,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Awasa Grand Resort",
+        "country": "Ethiopia",
+        "city": "Awasa",
+        "room_price_per_adult": 145,
+        "room_price_per_child": 72,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Mekelle Elite Hotel",
+        "country": "Ethiopia",
+        "city": "Mekelle",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 70,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Adama Central Hotel",
+        "country": "Ethiopia",
+        "city": "Adama",
+        "room_price_per_adult": 130,
+        "room_price_per_child": 65,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Dessie Grand Hotel",
+        "country": "Ethiopia",
+        "city": "Dessie",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 75,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Goba Luxury Suites",
+        "country": "Ethiopia",
+        "city": "Goba",
+        "room_price_per_adult": 120,
+        "room_price_per_child": 60,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Addis Ababa Skyline Hotel",
+        "country": "Ethiopia",
+        "city": "Addis Ababa",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 80,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Bahir Dar Comfort Hotel",
+        "country": "Ethiopia",
+        "city": "Bahir Dar",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 75,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Gondar Elite Suites",
+        "country": "Ethiopia",
+        "city": "Gondar",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 80,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Lalibela Scenic Hotel",
+        "country": "Ethiopia",
+        "city": "Lalibela",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 70,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Dire Dawa Luxury Inn",
+        "country": "Ethiopia",
+        "city": "Dire Dawa",
+        "room_price_per_adult": 130,
+        "room_price_per_child": 65,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Harar Scenic Suites",
+        "country": "Ethiopia",
+        "city": "Harar",
+        "room_price_per_adult": 145,
+        "room_price_per_child": 72,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Jimma Elite Suites",
+        "country": "Ethiopia",
+        "city": "Jimma",
+        "room_price_per_adult": 135,
+        "room_price_per_child": 67,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Awasa Elite Resort",
+        "country": "Ethiopia",
+        "city": "Awasa",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 75,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Mekelle Central Hotel",
+        "country": "Ethiopia",
+        "city": "Mekelle",
+        "room_price_per_adult": 145,
+        "room_price_per_child": 72,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Adama Elite Hotel",
+        "country": "Ethiopia",
+        "city": "Adama",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 70,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Dessie Luxury Suites",
+        "country": "Ethiopia",
+        "city": "Dessie",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 80,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Goba Grand Hotel",
+        "country": "Ethiopia",
+        "city": "Goba",
+        "room_price_per_adult": 130,
+        "room_price_per_child": 65,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Hotel Adlon Kempinski",
+        "country": "Germany",
+        "city": "Berlin",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Ritz-Carlton, Berlin",
+        "country": "Germany",
+        "city": "Berlin",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 220,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel de Rome",
+        "country": "Germany",
+        "city": "Berlin",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 200,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Sofitel Berlin Kurfürstendamm",
+        "country": "Germany",
+        "city": "Berlin",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 180,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Westin Grand Berlin",
+        "country": "Germany",
+        "city": "Berlin",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 150,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Bristol Hotel Berlin",
+        "country": "Germany",
+        "city": "Berlin",
+        "room_price_per_adult": 350,
+        "room_price_per_child": 140,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Hamburg",
+        "country": "Germany",
+        "city": "Hamburg",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 180,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Fontenay",
+        "country": "Germany",
+        "city": "Hamburg",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 220,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Park Hyatt Hamburg",
+        "country": "Germany",
+        "city": "Hamburg",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 200,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Atlantic Kempinski",
+        "country": "Germany",
+        "city": "Hamburg",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Steigenberger Hotel Hamburg",
+        "country": "Germany",
+        "city": "Hamburg",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 160,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Bayerischer Hof",
+        "country": "Germany",
+        "city": "Munich",
+        "room_price_per_adult": 650,
+        "room_price_per_child": 270,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Charles Hotel",
+        "country": "Germany",
+        "city": "Munich",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Vier Jahreszeiten Kempinski",
+        "country": "Germany",
+        "city": "Munich",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 300,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Sofitel Munich Bayerpost",
+        "country": "Germany",
+        "city": "Munich",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 200,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Le Meridien Munich",
+        "country": "Germany",
+        "city": "Munich",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 180,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Louis C. Jacob",
+        "country": "Germany",
+        "city": "Hamburg",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The George Hotel",
+        "country": "Germany",
+        "city": "Hamburg",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 160,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Atlantic Hamburg",
+        "country": "Germany",
+        "city": "Hamburg",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 220,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Fairmont Hotel Vier Jahreszeiten",
+        "country": "Germany",
+        "city": "Hamburg",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 300,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Park Hyatt",
+        "country": "Germany",
+        "city": "Hamburg",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 200,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Bayerischer Hof Munich",
+        "country": "Germany",
+        "city": "Munich",
+        "room_price_per_adult": 650,
+        "room_price_per_child": 270,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Mandarin Oriental Munich",
+        "country": "Germany",
+        "city": "Munich",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 300,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Westin Grand Munich",
+        "country": "Germany",
+        "city": "Munich",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 160,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Königshof",
+        "country": "Germany",
+        "city": "Munich",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 200,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Excelsior",
+        "country": "Germany",
+        "city": "Munich",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 180,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Savoy Berlin",
+        "country": "Germany",
+        "city": "Berlin",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Steigenberger Berlin",
+        "country": "Germany",
+        "city": "Berlin",
+        "room_price_per_adult": 450,
+        "room_price_per_child": 180,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Meliá Berlin",
+        "country": "Germany",
+        "city": "Berlin",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 200,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel NH Collection Berlin Mitte",
+        "country": "Germany",
+        "city": "Berlin",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 160,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Scandic Berlin Potsdamer Platz",
+        "country": "Germany",
+        "city": "Berlin",
+        "room_price_per_adult": 350,
+        "room_price_per_child": 140,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Grand Hotel Heiligendamm",
+        "country": "Germany",
+        "city": "Heiligendamm",
+        "room_price_per_adult": 700,
+        "room_price_per_child": 300,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Elephant Weimar",
+        "country": "Germany",
+        "city": "Weimar",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 250,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Bristol",
+        "country": "Poland",
+        "city": "Warsaw",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel InterContinental",
+        "country": "Poland",
+        "city": "Warsaw",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Polonia Palace",
+        "country": "Poland",
+        "city": "Warsaw",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Regent",
+        "country": "Poland",
+        "city": "Warsaw",
+        "room_price_per_adult": 190,
+        "room_price_per_child": 95,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Sofitel",
+        "country": "Poland",
+        "city": "Warsaw",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Hilton",
+        "country": "Poland",
+        "city": "Warsaw",
+        "room_price_per_adult": 210,
+        "room_price_per_child": 105,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Warsaw Marriott",
+        "country": "Poland",
+        "city": "Warsaw",
+        "room_price_per_adult": 240,
+        "room_price_per_child": 120,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Sheraton",
+        "country": "Poland",
+        "city": "Warsaw",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 125,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Radisson Blu",
+        "country": "Poland",
+        "city": "Warsaw",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Novotel",
+        "country": "Poland",
+        "city": "Warsaw",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 85,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Grand",
+        "country": "Poland",
+        "city": "Krakow",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Radisson Blu",
+        "country": "Poland",
+        "city": "Krakow",
+        "room_price_per_adult": 210,
+        "room_price_per_child": 105,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Sheraton",
+        "country": "Poland",
+        "city": "Krakow",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Hilton",
+        "country": "Poland",
+        "city": "Krakow",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel InterContinental",
+        "country": "Poland",
+        "city": "Krakow",
+        "room_price_per_adult": 240,
+        "room_price_per_child": 120,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Mercure",
+        "country": "Poland",
+        "city": "Krakow",
+        "room_price_per_adult": 190,
+        "room_price_per_child": 95,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel NH Collection",
+        "country": "Poland",
+        "city": "Krakow",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Puro",
+        "country": "Poland",
+        "city": "Krakow",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel The Bonerowski Palace",
+        "country": "Poland",
+        "city": "Krakow",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 125,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Grand",
+        "country": "Poland",
+        "city": "Gdansk",
+        "room_price_per_adult": 190,
+        "room_price_per_child": 95,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Hilton",
+        "country": "Poland",
+        "city": "Gdansk",
+        "room_price_per_adult": 210,
+        "room_price_per_child": 105,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Radisson Blu",
+        "country": "Poland",
+        "city": "Gdansk",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Puro",
+        "country": "Poland",
+        "city": "Gdansk",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Sofitel",
+        "country": "Poland",
+        "city": "Gdansk",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Sheraton",
+        "country": "Poland",
+        "city": "Gdansk",
+        "room_price_per_adult": 240,
+        "room_price_per_child": 120,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Hanza",
+        "country": "Poland",
+        "city": "Gdansk",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Qubus",
+        "country": "Poland",
+        "city": "Gdansk",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 85,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Radisson Blu",
+        "country": "Poland",
+        "city": "Wroclaw",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Sofitel",
+        "country": "Poland",
+        "city": "Wroclaw",
+        "room_price_per_adult": 210,
+        "room_price_per_child": 105,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Hilton",
+        "country": "Poland",
+        "city": "Wroclaw",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel The Granary",
+        "country": "Poland",
+        "city": "Wroclaw",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel NH Collection",
+        "country": "Poland",
+        "city": "Wroclaw",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Novotel",
+        "country": "Poland",
+        "city": "Wroclaw",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Athenee Palace Hilton",
+        "country": "Romania",
+        "city": "Bucharest",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 80,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "InterContinental Bucharest",
+        "country": "Romania",
+        "city": "Bucharest",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "JW Marriott Bucharest Grand Hotel",
+        "country": "Romania",
+        "city": "Bucharest",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Radisson Blu Hotel",
+        "country": "Romania",
+        "city": "Bucharest",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 95,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Sheraton Bucharest Hotel",
+        "country": "Romania",
+        "city": "Bucharest",
+        "room_price_per_adult": 210,
+        "room_price_per_child": 85,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Cismigiu",
+        "country": "Romania",
+        "city": "Bucharest",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 70,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Novotel Bucharest City Centre",
+        "country": "Romania",
+        "city": "Bucharest",
+        "room_price_per_adult": 190,
+        "room_price_per_child": 75,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hilton Garden Inn Bucharest",
+        "country": "Romania",
+        "city": "Bucharest",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 65,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Grand Hotel Continental",
+        "country": "Romania",
+        "city": "Bucharest",
+        "room_price_per_adult": 240,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Mansion Boutique Hotel",
+        "country": "Romania",
+        "city": "Bucharest",
+        "room_price_per_adult": 260,
+        "room_price_per_child": 105,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "DoubleTree by Hilton Hotel Bucharest",
+        "country": "Romania",
+        "city": "Bucharest",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 80,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Epoque",
+        "country": "Romania",
+        "city": "Bucharest",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Pensiunea Verde",
+        "country": "Romania",
+        "city": "Brasov",
+        "room_price_per_adult": 100,
+        "room_price_per_child": 40,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Aro Palace Hotel",
+        "country": "Romania",
+        "city": "Brasov",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 60,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Ambient",
+        "country": "Romania",
+        "city": "Brasov",
+        "room_price_per_adult": 130,
+        "room_price_per_child": 50,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Bella Muzica",
+        "country": "Romania",
+        "city": "Brasov",
+        "room_price_per_adult": 120,
+        "room_price_per_child": 45,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Kronwell Brasov Hotel",
+        "country": "Romania",
+        "city": "Brasov",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 70,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Predeal",
+        "country": "Romania",
+        "city": "Predeal",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 55,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Pensiunea La Rocca",
+        "country": "Romania",
+        "city": "Predeal",
+        "room_price_per_adult": 120,
+        "room_price_per_child": 50,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Dacia RRT",
+        "country": "Romania",
+        "city": "Sibiu",
+        "room_price_per_adult": 110,
+        "room_price_per_child": 45,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Golden Tulip Ana Tower",
+        "country": "Romania",
+        "city": "Sibiu",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 55,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Ramada Sibiu",
+        "country": "Romania",
+        "city": "Sibiu",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 60,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Ibis Sibiu",
+        "country": "Romania",
+        "city": "Sibiu",
+        "room_price_per_adult": 120,
+        "room_price_per_child": 50,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Pensiunea Maria",
+        "country": "Romania",
+        "city": "Sibiu",
+        "room_price_per_adult": 100,
+        "room_price_per_child": 40,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Continental Forum",
+        "country": "Romania",
+        "city": "Cluj-Napoca",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 60,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Opera Plaza",
+        "country": "Romania",
+        "city": "Cluj-Napoca",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 65,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Beyfin",
+        "country": "Romania",
+        "city": "Cluj-Napoca",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 55,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Vila Verde",
+        "country": "Romania",
+        "city": "Cluj-Napoca",
+        "room_price_per_adult": 120,
+        "room_price_per_child": 50,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Grand Hotel Napoca",
+        "country": "Romania",
+        "city": "Cluj-Napoca",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 70,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Tisa",
+        "country": "Romania",
+        "city": "Suceava",
+        "room_price_per_adult": 110,
+        "room_price_per_child": 45,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Zamca",
+        "country": "Romania",
+        "city": "Suceava",
+        "room_price_per_adult": 120,
+        "room_price_per_child": 50,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Best Western Bucovina",
+        "country": "Romania",
+        "city": "Suceava",
+        "room_price_per_adult": 130,
+        "room_price_per_child": 55,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Moscow Grand Hotel",
+        "country": "Russia",
+        "city": "Moscow",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "St. Petersburg Palace Hotel",
+        "country": "Russia",
+        "city": "St. Petersburg",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Novosibirsk City Hotel",
+        "country": "Russia",
+        "city": "Novosibirsk",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 75,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Yekaterinburg Luxury Suites",
+        "country": "Russia",
+        "city": "Yekaterinburg",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 80,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Nizhny Novgorod Central Hotel",
+        "country": "Russia",
+        "city": "Nizhny Novgorod",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 70,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Kazan Grand Hotel",
+        "country": "Russia",
+        "city": "Kazan",
+        "room_price_per_adult": 155,
+        "room_price_per_child": 77,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Samara River View Hotel",
+        "country": "Russia",
+        "city": "Samara",
+        "room_price_per_adult": 145,
+        "room_price_per_child": 72,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Omsk Heritage Hotel",
+        "country": "Russia",
+        "city": "Omsk",
+        "room_price_per_adult": 130,
+        "room_price_per_child": 65,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Rostov-on-Don Elite Suites",
+        "country": "Russia",
+        "city": "Rostov-on-Don",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 75,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Ufa Central Hotel",
+        "country": "Russia",
+        "city": "Ufa",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 70,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Volgograd Grand Hotel",
+        "country": "Russia",
+        "city": "Volgograd",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 80,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Chelyabinsk Luxury Hotel",
+        "country": "Russia",
+        "city": "Chelyabinsk",
+        "room_price_per_adult": 155,
+        "room_price_per_child": 77,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Krasnodar Coastal Hotel",
+        "country": "Russia",
+        "city": "Krasnodar",
+        "room_price_per_adult": 145,
+        "room_price_per_child": 72,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Irvinskaya Hotel",
+        "country": "Russia",
+        "city": "Irvinskaya",
+        "room_price_per_adult": 135,
+        "room_price_per_child": 68,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Kaliningrad Elite Hotel",
+        "country": "Russia",
+        "city": "Kaliningrad",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 75,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Tver Historic Suites",
+        "country": "Russia",
+        "city": "Tver",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 70,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Barnaul Grand Hotel",
+        "country": "Russia",
+        "city": "Barnaul",
+        "room_price_per_adult": 130,
+        "room_price_per_child": 65,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Kemerovo Central Hotel",
+        "country": "Russia",
+        "city": "Kemerovo",
+        "room_price_per_adult": 145,
+        "room_price_per_child": 72,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Voronezh City View Hotel",
+        "country": "Russia",
+        "city": "Voronezh",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 80,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Yaroslavl Heritage Hotel",
+        "country": "Russia",
+        "city": "Yaroslavl",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 75,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Petrozavodsk Luxury Suites",
+        "country": "Russia",
+        "city": "Petrozavodsk",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 70,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Arkhangelsk Coastal Hotel",
+        "country": "Russia",
+        "city": "Arkhangelsk",
+        "room_price_per_adult": 130,
+        "room_price_per_child": 65,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Sochi Resort Hotel",
+        "country": "Russia",
+        "city": "Sochi",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 85,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Volgodonsk City Hotel",
+        "country": "Russia",
+        "city": "Volgodonsk",
+        "room_price_per_adult": 145,
+        "room_price_per_child": 72,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Syktyvkar Grand Hotel",
+        "country": "Russia",
+        "city": "Syktyvkar",
+        "room_price_per_adult": 135,
+        "room_price_per_child": 68,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Tambov Central Hotel",
+        "country": "Russia",
+        "city": "Tambov",
+        "room_price_per_adult": 130,
+        "room_price_per_child": 65,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Saransk Elite Hotel",
+        "country": "Russia",
+        "city": "Saransk",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 70,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Chita Historic Hotel",
+        "country": "Russia",
+        "city": "Chita",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 75,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Irkutsk Central Suites",
+        "country": "Russia",
+        "city": "Irkutsk",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 80,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Ulan-Ude Grand Hotel",
+        "country": "Russia",
+        "city": "Ulan-Ude",
+        "room_price_per_adult": 155,
+        "room_price_per_child": 77,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Khabarovsk Luxury Suites",
+        "country": "Russia",
+        "city": "Khabarovsk",
+        "room_price_per_adult": 145,
+        "room_price_per_child": 72,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Blagoveshchensk City Hotel",
+        "country": "Russia",
+        "city": "Blagoveshchensk",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 70,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Naberezhnye Chelny Grand Hotel",
+        "country": "Russia",
+        "city": "Naberezhnye Chelny",
+        "room_price_per_adult": 130,
+        "room_price_per_child": 65,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Saratov Historic Suites",
+        "country": "Russia",
+        "city": "Saratov",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 75,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Vladivostok Coastal Hotel",
+        "country": "Russia",
+        "city": "Vladivostok",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 85,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Kaluga City View Hotel",
+        "country": "Russia",
+        "city": "Kaluga",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 70,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Hotel InterContinental",
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 75,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Hilton",
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 80,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Hyatt Regency",
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 85,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Fairmont",
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Radisson Blu",
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 70,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Premier Palace",
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 75,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Ukraina",
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "room_price_per_adult": 120,
+        "room_price_per_child": 60,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel 11 Mirrors",
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Aloft",
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "room_price_per_adult": 130,
+        "room_price_per_child": 65,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Khreschatyk",
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "room_price_per_adult": 110,
+        "room_price_per_child": 55,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Lviv",
+        "country": "Ukraine",
+        "city": "Lviv",
+        "room_price_per_adult": 100,
+        "room_price_per_child": 50,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Citadel Inn",
+        "country": "Ukraine",
+        "city": "Lviv",
+        "room_price_per_adult": 120,
+        "room_price_per_child": 60,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Dnister",
+        "country": "Ukraine",
+        "city": "Lviv",
+        "room_price_per_adult": 110,
+        "room_price_per_child": 55,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel George",
+        "country": "Ukraine",
+        "city": "Lviv",
+        "room_price_per_adult": 130,
+        "room_price_per_child": 65,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Leopolis",
+        "country": "Ukraine",
+        "city": "Lviv",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 70,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Panorama Lviv",
+        "country": "Ukraine",
+        "city": "Lviv",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 75,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Opera",
+        "country": "Ukraine",
+        "city": "Lviv",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 80,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Rixos",
+        "country": "Ukraine",
+        "city": "Odesa",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 85,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Bristol Odesa",
+        "country": "Ukraine",
+        "city": "Odesa",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel 5 Stars",
+        "country": "Ukraine",
+        "city": "Odesa",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 75,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Gagarinn",
+        "country": "Ukraine",
+        "city": "Odesa",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 70,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Odessa",
+        "country": "Ukraine",
+        "city": "Odesa",
+        "room_price_per_adult": 130,
+        "room_price_per_child": 65,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Hotel Lanzarote",
+        "country": "Ukraine",
+        "city": "Odesa",
+        "room_price_per_adult": 120,
+        "room_price_per_child": 60,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Amadria Park",
+        "country": "Ukraine",
+        "city": "Odesa",
+        "room_price_per_adult": 110,
+        "room_price_per_child": 55,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Beethoven",
+        "country": "Ukraine",
+        "city": "Kharkiv",
+        "room_price_per_adult": 100,
+        "room_price_per_child": 50,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Kharkiv Palace",
+        "country": "Ukraine",
+        "city": "Kharkiv",
+        "room_price_per_adult": 120,
+        "room_price_per_child": 60,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Premier Palace",
+        "country": "Ukraine",
+        "city": "Kharkiv",
+        "room_price_per_adult": 130,
+        "room_price_per_child": 65,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Mirror",
+        "country": "Ukraine",
+        "city": "Kharkiv",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 70,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Ukraina",
+        "country": "Ukraine",
+        "city": "Kharkiv",
+        "room_price_per_adult": 110,
+        "room_price_per_child": 55,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Kyivska Russ",
+        "country": "Ukraine",
+        "city": "Kharkiv",
+        "room_price_per_adult": 100,
+        "room_price_per_child": 50,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Art Hotel",
+        "country": "Ukraine",
+        "city": "Dnipro",
+        "room_price_per_adult": 90,
+        "room_price_per_child": 45,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Tsentralnaya",
+        "country": "Ukraine",
+        "city": "Dnipro",
+        "room_price_per_adult": 100,
+        "room_price_per_child": 50,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Park Hotel",
+        "country": "Ukraine",
+        "city": "Dnipro",
+        "room_price_per_adult": 110,
+        "room_price_per_child": 55,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Dubrovnik Palace Hotel",
+        "country": "Croatia",
+        "city": "Dubrovnik",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Split Seaside Hotel",
+        "country": "Croatia",
+        "city": "Split",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Zagreb Central Suites",
+        "country": "Croatia",
+        "city": "Zagreb",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 75,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Rijeka Grand Hotel",
+        "country": "Croatia",
+        "city": "Rijeka",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 80,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Pula Coastal Hotel",
+        "country": "Croatia",
+        "city": "Pula",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 85,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Poreč Resort Hotel",
+        "country": "Croatia",
+        "city": "Poreč",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 80,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Šibenik Heritage Suites",
+        "country": "Croatia",
+        "city": "Šibenik",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 75,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Makarska Beach Hotel",
+        "country": "Croatia",
+        "city": "Makarska",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Osijek Central Hotel",
+        "country": "Croatia",
+        "city": "Osijek",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 70,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Zadar City Hotel",
+        "country": "Croatia",
+        "city": "Zadar",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 85,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Rovinj Luxury Suites",
+        "country": "Croatia",
+        "city": "Rovinj",
+        "room_price_per_adult": 190,
+        "room_price_per_child": 95,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Dubrovnik Coastal Hotel",
+        "country": "Croatia",
+        "city": "Dubrovnik",
+        "room_price_per_adult": 210,
+        "room_price_per_child": 105,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Split Boutique Hotel",
+        "country": "Croatia",
+        "city": "Split",
+        "room_price_per_adult": 190,
+        "room_price_per_child": 95,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Zagreb Executive Suites",
+        "country": "Croatia",
+        "city": "Zagreb",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 80,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Rijeka Elite Hotel",
+        "country": "Croatia",
+        "city": "Rijeka",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 85,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Pula Historic Hotel",
+        "country": "Croatia",
+        "city": "Pula",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 80,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Poreč Luxury Suites",
+        "country": "Croatia",
+        "city": "Poreč",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Šibenik Grand Hotel",
+        "country": "Croatia",
+        "city": "Šibenik",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 85,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Makarska Resort Hotel",
+        "country": "Croatia",
+        "city": "Makarska",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Osijek Luxury Suites",
+        "country": "Croatia",
+        "city": "Osijek",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 75,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Zadar Elite Hotel",
+        "country": "Croatia",
+        "city": "Zadar",
+        "room_price_per_adult": 190,
+        "room_price_per_child": 95,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Rovinj Central Hotel",
+        "country": "Croatia",
+        "city": "Rovinj",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Dubrovnik Heritage Suites",
+        "country": "Croatia",
+        "city": "Dubrovnik",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Split Central Suites",
+        "country": "Croatia",
+        "city": "Split",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Zagreb Boutique Hotel",
+        "country": "Croatia",
+        "city": "Zagreb",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 85,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Rijeka Coastal Hotel",
+        "country": "Croatia",
+        "city": "Rijeka",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Pula Grand Hotel",
+        "country": "Croatia",
+        "city": "Pula",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 85,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Poreč Boutique Hotel",
+        "country": "Croatia",
+        "city": "Poreč",
+        "room_price_per_adult": 190,
+        "room_price_per_child": 95,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Šibenik Resort Hotel",
+        "country": "Croatia",
+        "city": "Šibenik",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Makarska Central Suites",
+        "country": "Croatia",
+        "city": "Makarska",
+        "room_price_per_adult": 210,
+        "room_price_per_child": 105,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Osijek Resort Hotel",
+        "country": "Croatia",
+        "city": "Osijek",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 80,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Zadar Grand Hotel",
+        "country": "Croatia",
+        "city": "Zadar",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Rovinj Boutique Suites",
+        "country": "Croatia",
+        "city": "Rovinj",
+        "room_price_per_adult": 190,
+        "room_price_per_child": 95,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Dubrovnik Elite Hotel",
+        "country": "Croatia",
+        "city": "Dubrovnik",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Split Resort Hotel",
+        "country": "Croatia",
+        "city": "Split",
+        "room_price_per_adult": 210,
+        "room_price_per_child": 105,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Zagreb Central Hotel",
+        "country": "Croatia",
+        "city": "Zagreb",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Grande Bretagne",
+        "country": "Greece",
+        "city": "Athens",
+        "room_price_per_adult": 350,
+        "room_price_per_child": 150,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "King George Hotel",
+        "country": "Greece",
+        "city": "Athens",
+        "room_price_per_adult": 330,
+        "room_price_per_child": 140,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Electra Palace",
+        "country": "Greece",
+        "city": "Athens",
+        "room_price_per_adult": 300,
+        "room_price_per_child": 120,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "New Hotel",
+        "country": "Greece",
+        "city": "Athens",
+        "room_price_per_adult": 280,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Athenaeum InterContinental",
+        "country": "Greece",
+        "city": "Athens",
+        "room_price_per_adult": 320,
+        "room_price_per_child": 130,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hilton Athens",
+        "country": "Greece",
+        "city": "Athens",
+        "room_price_per_adult": 290,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "St. George Lycabettus Hotel",
+        "country": "Greece",
+        "city": "Athens",
+        "room_price_per_adult": 270,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Zillers Boutique Hotel",
+        "country": "Greece",
+        "city": "Athens",
+        "room_price_per_adult": 310,
+        "room_price_per_child": 125,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Divani Caravel Hotel",
+        "country": "Greece",
+        "city": "Athens",
+        "room_price_per_adult": 260,
+        "room_price_per_child": 95,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Plaka",
+        "country": "Greece",
+        "city": "Athens",
+        "room_price_per_adult": 240,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Katikies Hotel",
+        "country": "Greece",
+        "city": "Santorini",
+        "room_price_per_adult": 500,
+        "room_price_per_child": 200,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Canaves Oia Suites & Spa",
+        "country": "Greece",
+        "city": "Santorini",
+        "room_price_per_adult": 550,
+        "room_price_per_child": 220,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Astra Suites",
+        "country": "Greece",
+        "city": "Santorini",
+        "room_price_per_adult": 480,
+        "room_price_per_child": 190,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Mystique, a Luxury Collection Hotel",
+        "country": "Greece",
+        "city": "Santorini",
+        "room_price_per_adult": 600,
+        "room_price_per_child": 240,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Grace Hotel Santorini",
+        "country": "Greece",
+        "city": "Santorini",
+        "room_price_per_adult": 520,
+        "room_price_per_child": 210,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Katikies Chromata",
+        "country": "Greece",
+        "city": "Santorini",
+        "room_price_per_adult": 540,
+        "room_price_per_child": 215,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Andronis Luxury Suites",
+        "country": "Greece",
+        "city": "Santorini",
+        "room_price_per_adult": 530,
+        "room_price_per_child": 205,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Katikies Villas & Suites",
+        "country": "Greece",
+        "city": "Santorini",
+        "room_price_per_adult": 560,
+        "room_price_per_child": 225,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Selena Hotel",
+        "country": "Greece",
+        "city": "Crete",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 60,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Blue Palace, a Luxury Collection Resort and Spa",
+        "country": "Greece",
+        "city": "Crete",
+        "room_price_per_adult": 300,
+        "room_price_per_child": 120,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Elounda Beach Hotel",
+        "country": "Greece",
+        "city": "Crete",
+        "room_price_per_adult": 320,
+        "room_price_per_child": 130,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Stella Palace Resort & Spa",
+        "country": "Greece",
+        "city": "Crete",
+        "room_price_per_adult": 280,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Domes Noruz Chania",
+        "country": "Greece",
+        "city": "Crete",
+        "room_price_per_adult": 350,
+        "room_price_per_child": 140,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Minoa Palace Resort & Spa",
+        "country": "Greece",
+        "city": "Crete",
+        "room_price_per_adult": 260,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Istron Bay Hotel",
+        "country": "Greece",
+        "city": "Crete",
+        "room_price_per_adult": 290,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Minos Beach Art Hotel",
+        "country": "Greece",
+        "city": "Crete",
+        "room_price_per_adult": 310,
+        "room_price_per_child": 125,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Poseidonio",
+        "country": "Greece",
+        "city": "Thessaloniki",
+        "room_price_per_adult": 100,
+        "room_price_per_child": 40,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Met Hotel",
+        "country": "Greece",
+        "city": "Thessaloniki",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 60,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Electra Palace Thessaloniki",
+        "country": "Greece",
+        "city": "Thessaloniki",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 70,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Makedonia Palace",
+        "country": "Greece",
+        "city": "Thessaloniki",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 80,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Daios Luxury Living",
+        "country": "Greece",
+        "city": "Thessaloniki",
+        "room_price_per_adult": 190,
+        "room_price_per_child": 75,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Le Palace Art Hotel",
+        "country": "Greece",
+        "city": "Thessaloniki",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 65,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Four Seasons Hotel",
+        "country": "Cyprus",
+        "city": "Limassol",
+        "room_price_per_adult": 300,
+        "room_price_per_child": 150,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Columbia Beach Resort",
+        "country": "Cyprus",
+        "city": "Pissouri",
+        "room_price_per_adult": 280,
+        "room_price_per_child": 140,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Amathus Beach Hotel",
+        "country": "Cyprus",
+        "city": "Limassol",
+        "room_price_per_adult": 270,
+        "room_price_per_child": 135,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Royal Apollonia",
+        "country": "Cyprus",
+        "city": "Limassol",
+        "room_price_per_adult": 260,
+        "room_price_per_child": 130,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Parklane, a Luxury Collection Resort & Spa",
+        "country": "Cyprus",
+        "city": "Limassol",
+        "room_price_per_adult": 320,
+        "room_price_per_child": 160,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Elysium",
+        "country": "Cyprus",
+        "city": "Paphos",
+        "room_price_per_adult": 290,
+        "room_price_per_child": 145,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Annabelle",
+        "country": "Cyprus",
+        "city": "Paphos",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 125,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Almyra",
+        "country": "Cyprus",
+        "city": "Paphos",
+        "room_price_per_adult": 240,
+        "room_price_per_child": 120,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Coral Beach Hotel",
+        "country": "Cyprus",
+        "city": "Paphos",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Azia Resort & Spa",
+        "country": "Cyprus",
+        "city": "Paphos",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Cap St Georges Hotel & Resort",
+        "country": "Cyprus",
+        "city": "Peyia",
+        "room_price_per_adult": 300,
+        "room_price_per_child": 150,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Westin Resort",
+        "country": "Cyprus",
+        "city": "Paphos",
+        "room_price_per_adult": 310,
+        "room_price_per_child": 155,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Anassa Hotel",
+        "country": "Cyprus",
+        "city": "Latsi",
+        "room_price_per_adult": 330,
+        "room_price_per_child": 165,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Aphrodite Hills Golf & Resort",
+        "country": "Cyprus",
+        "city": "Paphos",
+        "room_price_per_adult": 350,
+        "room_price_per_child": 175,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Nissi Beach Resort",
+        "country": "Cyprus",
+        "city": "Ayia Napa",
+        "room_price_per_adult": 280,
+        "room_price_per_child": 140,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Adams Beach Hotel",
+        "country": "Cyprus",
+        "city": "Ayia Napa",
+        "room_price_per_adult": 270,
+        "room_price_per_child": 135,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Grecian Bay Hotel",
+        "country": "Cyprus",
+        "city": "Ayia Napa",
+        "room_price_per_adult": 260,
+        "room_price_per_child": 130,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Napa Mermaid Hotel & Suites",
+        "country": "Cyprus",
+        "city": "Ayia Napa",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 125,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Sunrise Beach Hotel",
+        "country": "Cyprus",
+        "city": "Protaras",
+        "room_price_per_adult": 240,
+        "room_price_per_child": 120,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Cavo Maris Beach Hotel",
+        "country": "Cyprus",
+        "city": "Protaras",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Louis St. Elias Resort",
+        "country": "Cyprus",
+        "city": "Protaras",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Constantinou Bros Asimina Suites Hotel",
+        "country": "Cyprus",
+        "city": "Paphos",
+        "room_price_per_adult": 300,
+        "room_price_per_child": 150,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Constantinou Bros Athena Beach Hotel",
+        "country": "Cyprus",
+        "city": "Paphos",
+        "room_price_per_adult": 280,
+        "room_price_per_child": 140,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Louis Ledra Beach Hotel",
+        "country": "Cyprus",
+        "city": "Paphos",
+        "room_price_per_adult": 260,
+        "room_price_per_child": 130,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Louis Phaethon Beach Hotel",
+        "country": "Cyprus",
+        "city": "Paphos",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 125,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Alexander The Great Beach Hotel",
+        "country": "Cyprus",
+        "city": "Paphos",
+        "room_price_per_adult": 270,
+        "room_price_per_child": 135,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Poseidonia Beach Hotel",
+        "country": "Cyprus",
+        "city": "Limassol",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Mediterranean Beach Hotel",
+        "country": "Cyprus",
+        "city": "Limassol",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Ajax Hotel",
+        "country": "Cyprus",
+        "city": "Limassol",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Caravel Hotel",
+        "country": "Cyprus",
+        "city": "Limassol",
+        "room_price_per_adult": 210,
+        "room_price_per_child": 105,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Limassol Marina",
+        "country": "Cyprus",
+        "city": "Limassol",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 125,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Crown Resorts Elamaris",
+        "country": "Cyprus",
+        "city": "Protaras",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Beijing Grand Hotel",
+        "country": "China",
+        "city": "Beijing",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Shanghai City Suites",
+        "country": "China",
+        "city": "Shanghai",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Guangzhou Central Hotel",
+        "country": "China",
+        "city": "Guangzhou",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Shenzhen Luxury Suites",
+        "country": "China",
+        "city": "Shenzhen",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Chengdu Heritage Hotel",
+        "country": "China",
+        "city": "Chengdu",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 85,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Xi'an Historic Hotel",
+        "country": "China",
+        "city": "Xi'an",
+        "room_price_per_adult": 190,
+        "room_price_per_child": 95,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Wuhan River View Hotel",
+        "country": "China",
+        "city": "Wuhan",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 80,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hangzhou Central Hotel",
+        "country": "China",
+        "city": "Hangzhou",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Suzhou Garden Hotel",
+        "country": "China",
+        "city": "Suzhou",
+        "room_price_per_adult": 190,
+        "room_price_per_child": 95,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Nanjing Elite Hotel",
+        "country": "China",
+        "city": "Nanjing",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 85,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Tianjin Grand Suites",
+        "country": "China",
+        "city": "Tianjin",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Chongqing Luxury Hotel",
+        "country": "China",
+        "city": "Chongqing",
+        "room_price_per_adult": 210,
+        "room_price_per_child": 105,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Qingdao Coastal Hotel",
+        "country": "China",
+        "city": "Qingdao",
+        "room_price_per_adult": 190,
+        "room_price_per_child": 95,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Dalian Central Suites",
+        "country": "China",
+        "city": "Dalian",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Zhengzhou Elite Hotel",
+        "country": "China",
+        "city": "Zhengzhou",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 80,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Fuzhou Heritage Suites",
+        "country": "China",
+        "city": "Fuzhou",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 85,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Xiamen City Hotel",
+        "country": "China",
+        "city": "Xiamen",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Jinan Grand Hotel",
+        "country": "China",
+        "city": "Jinan",
+        "room_price_per_adult": 190,
+        "room_price_per_child": 95,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hefei Central Suites",
+        "country": "China",
+        "city": "Hefei",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 80,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Ningbo Luxury Hotel",
+        "country": "China",
+        "city": "Ningbo",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 85,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Kunming Heritage Hotel",
+        "country": "China",
+        "city": "Kunming",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Shijiazhuang Elite Hotel",
+        "country": "China",
+        "city": "Shijiazhuang",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Xuzhou Central Hotel",
+        "country": "China",
+        "city": "Xuzhou",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 85,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Yantai City Suites",
+        "country": "China",
+        "city": "Yantai",
+        "room_price_per_adult": 190,
+        "room_price_per_child": 95,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Lanzhou Luxury Hotel",
+        "country": "China",
+        "city": "Lanzhou",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 80,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Guiyang Grand Hotel",
+        "country": "China",
+        "city": "Guiyang",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Wuxi Central Suites",
+        "country": "China",
+        "city": "Wuxi",
+        "room_price_per_adult": 190,
+        "room_price_per_child": 95,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Yangzhou City Hotel",
+        "country": "China",
+        "city": "Yangzhou",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 85,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Zibo Luxury Suites",
+        "country": "China",
+        "city": "Zibo",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 80,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Luoyang Historic Hotel",
+        "country": "China",
+        "city": "Luoyang",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hohhot Central Hotel",
+        "country": "China",
+        "city": "Hohhot",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Tianjin Grand Suites",
+        "country": "China",
+        "city": "Tianjin",
+        "room_price_per_adult": 210,
+        "room_price_per_child": 105,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Nanchang Luxury Suites",
+        "country": "China",
+        "city": "Nanchang",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 85,
+        "max_guests": 3
+    },
+    {
+        "hotel_name": "Shenzhen Grand Hotel",
+        "country": "China",
+        "city": "Shenzhen",
+        "room_price_per_adult": 190,
+        "room_price_per_child": 95,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Beijing Elite Suites",
+        "country": "China",
+        "city": "Beijing",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Shanghai Coastal Hotel",
+        "country": "China",
+        "city": "Shanghai",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Guangzhou Grand Suites",
+        "country": "China",
+        "city": "Guangzhou",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Shilla Seoul",
+        "country": "South Korea",
+        "city": "Seoul",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 150,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Park Hyatt Seoul",
+        "country": "South Korea",
+        "city": "Seoul",
+        "room_price_per_adult": 350,
+        "room_price_per_child": 130,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Grand Hyatt Seoul",
+        "country": "South Korea",
+        "city": "Seoul",
+        "room_price_per_adult": 300,
+        "room_price_per_child": 120,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Westin Chosun Seoul",
+        "country": "South Korea",
+        "city": "Seoul",
+        "room_price_per_adult": 320,
+        "room_price_per_child": 125,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Lotte Hotel Seoul",
+        "country": "South Korea",
+        "city": "Seoul",
+        "room_price_per_adult": 310,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hilton Seoul",
+        "country": "South Korea",
+        "city": "Seoul",
+        "room_price_per_adult": 280,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Four Seasons Hotel Seoul",
+        "country": "South Korea",
+        "city": "Seoul",
+        "room_price_per_adult": 360,
+        "room_price_per_child": 140,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Conrad Seoul",
+        "country": "South Korea",
+        "city": "Seoul",
+        "room_price_per_adult": 330,
+        "room_price_per_child": 130,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "JW Marriott Hotel Seoul",
+        "country": "South Korea",
+        "city": "Seoul",
+        "room_price_per_adult": 340,
+        "room_price_per_child": 135,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Ritz-Carlton Seoul",
+        "country": "South Korea",
+        "city": "Seoul",
+        "room_price_per_adult": 350,
+        "room_price_per_child": 145,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel PJ Myeongdong",
+        "country": "South Korea",
+        "city": "Seoul",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 60,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Fraser Place Namdaemun",
+        "country": "South Korea",
+        "city": "Seoul",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 65,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Grand Ambassador Seoul",
+        "country": "South Korea",
+        "city": "Seoul",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 70,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Millenium Seoul Hilton",
+        "country": "South Korea",
+        "city": "Seoul",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 75,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel The Designers Hongdae",
+        "country": "South Korea",
+        "city": "Seoul",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 55,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel L7 Myeongdong",
+        "country": "South Korea",
+        "city": "Seoul",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 60,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Park Hyatt Busan",
+        "country": "South Korea",
+        "city": "Busan",
+        "room_price_per_adult": 300,
+        "room_price_per_child": 120,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Westin Chosun Busan",
+        "country": "South Korea",
+        "city": "Busan",
+        "room_price_per_adult": 280,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Lotte Hotel Busan",
+        "country": "South Korea",
+        "city": "Busan",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hilton Busan",
+        "country": "South Korea",
+        "city": "Busan",
+        "room_price_per_adult": 270,
+        "room_price_per_child": 105,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Paradise Hotel Busan",
+        "country": "South Korea",
+        "city": "Busan",
+        "room_price_per_adult": 260,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Haeundae Centum Hotel",
+        "country": "South Korea",
+        "city": "Busan",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 85,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Busan Lotte Hotel",
+        "country": "South Korea",
+        "city": "Busan",
+        "room_price_per_adult": 240,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Queen Hotel",
+        "country": "South Korea",
+        "city": "Busan",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 75,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Nongshim",
+        "country": "South Korea",
+        "city": "Busan",
+        "room_price_per_adult": 190,
+        "room_price_per_child": 70,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Haeundae Beach Hotel",
+        "country": "South Korea",
+        "city": "Busan",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 65,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Haeundae",
+        "country": "South Korea",
+        "city": "Busan",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 60,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Silla Boutique Hotel",
+        "country": "South Korea",
+        "city": "Gyeongju",
+        "room_price_per_adult": 150,
+        "room_price_per_child": 60,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hilton Gyeongju",
+        "country": "South Korea",
+        "city": "Gyeongju",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 65,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Gyeongju Wooyang Hotel",
+        "country": "South Korea",
+        "city": "Gyeongju",
+        "room_price_per_adult": 140,
+        "room_price_per_child": 55,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Korea Gyeongju Hotel",
+        "country": "South Korea",
+        "city": "Gyeongju",
+        "room_price_per_adult": 130,
+        "room_price_per_child": 50,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Hyundai Gyeongju",
+        "country": "South Korea",
+        "city": "Gyeongju",
+        "room_price_per_adult": 160,
+        "room_price_per_child": 60,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Peninsula Bangkok",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "room_price_per_adult": 350,
+        "room_price_per_child": 175,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Mandarin Oriental Bangkok",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 200,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Shangri-La Hotel Bangkok",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "room_price_per_adult": 300,
+        "room_price_per_child": 150,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Siam Kempinski Hotel",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "room_price_per_adult": 320,
+        "room_price_per_child": 160,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Siam",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "room_price_per_adult": 350,
+        "room_price_per_child": 175,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Anantara Riverside Bangkok Resort",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "room_price_per_adult": 280,
+        "room_price_per_child": 140,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Athenee Hotel Bangkok",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "room_price_per_adult": 290,
+        "room_price_per_child": 145,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Park Hyatt Bangkok",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "room_price_per_adult": 310,
+        "room_price_per_child": 155,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Lebua at State Tower",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "room_price_per_adult": 270,
+        "room_price_per_child": 135,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hotel Muse Bangkok",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 125,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The St. Regis Bangkok",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "room_price_per_adult": 340,
+        "room_price_per_child": 170,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Berkeley Hotel Pratunam",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Westin Grande Sukhumvit",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "room_price_per_adult": 260,
+        "room_price_per_child": 130,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Aloft Bangkok",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "room_price_per_adult": 180,
+        "room_price_per_child": 90,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Holiday Inn Bangkok",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "room_price_per_adult": 170,
+        "room_price_per_child": 85,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hilton Pattaya",
+        "country": "Thailand",
+        "city": "Pattaya",
+        "room_price_per_adult": 290,
+        "room_price_per_child": 145,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "InterContinental Pattaya Resort",
+        "country": "Thailand",
+        "city": "Pattaya",
+        "room_price_per_adult": 300,
+        "room_price_per_child": 150,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Royal Cliff Beach Hotel",
+        "country": "Thailand",
+        "city": "Pattaya",
+        "room_price_per_adult": 280,
+        "room_price_per_child": 140,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hilton Hua Hin Resort & Spa",
+        "country": "Thailand",
+        "city": "Hua Hin",
+        "room_price_per_adult": 260,
+        "room_price_per_child": 130,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Anantara Hua Hin Resort",
+        "country": "Thailand",
+        "city": "Hua Hin",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 125,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "InterContinental Hua Hin Resort",
+        "country": "Thailand",
+        "city": "Hua Hin",
+        "room_price_per_adult": 270,
+        "room_price_per_child": 135,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Cape Nidhra Hotel Hua Hin",
+        "country": "Thailand",
+        "city": "Hua Hin",
+        "room_price_per_adult": 290,
+        "room_price_per_child": 145,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Amari Phuket",
+        "country": "Thailand",
+        "city": "Phuket",
+        "room_price_per_adult": 280,
+        "room_price_per_child": 140,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Slate Phuket",
+        "country": "Thailand",
+        "city": "Phuket",
+        "room_price_per_adult": 300,
+        "room_price_per_child": 150,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Keemala Phuket",
+        "country": "Thailand",
+        "city": "Phuket",
+        "room_price_per_adult": 350,
+        "room_price_per_child": 175,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Pullman Phuket Arcadia Naithon Beach",
+        "country": "Thailand",
+        "city": "Phuket",
+        "room_price_per_adult": 270,
+        "room_price_per_child": 135,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "JW Marriott Phuket Resort & Spa",
+        "country": "Thailand",
+        "city": "Phuket",
+        "room_price_per_adult": 320,
+        "room_price_per_child": 160,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Banyan Tree Phuket",
+        "country": "Thailand",
+        "city": "Phuket",
+        "room_price_per_adult": 340,
+        "room_price_per_child": 170,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Renaissance Phuket Resort & Spa",
+        "country": "Thailand",
+        "city": "Phuket",
+        "room_price_per_adult": 290,
+        "room_price_per_child": 145,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Shore at Katathani",
+        "country": "Thailand",
+        "city": "Phuket",
+        "room_price_per_adult": 310,
+        "room_price_per_child": 155,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Six Senses Yao Noi",
+        "country": "Thailand",
+        "city": "Phuket",
+        "room_price_per_adult": 400,
+        "room_price_per_child": 200,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "The Ritz-Carlton Koh Samui",
+        "country": "Thailand",
+        "city": "Koh Samui",
+        "room_price_per_adult": 350,
+        "room_price_per_child": 175,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Tokyo Imperial Hotel",
+        "country": "Japan",
+        "city": "Tokyo",
+        "room_price_per_adult": 300,
+        "room_price_per_child": 150,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Kyoto Zen Suites",
+        "country": "Japan",
+        "city": "Kyoto",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 125,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Osaka Grand Hotel",
+        "country": "Japan",
+        "city": "Osaka",
+        "room_price_per_adult": 280,
+        "room_price_per_child": 140,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hiroshima Peace Hotel",
+        "country": "Japan",
+        "city": "Hiroshima",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Nagoya Central Suites",
+        "country": "Japan",
+        "city": "Nagoya",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Sapporo Snow Hotel",
+        "country": "Japan",
+        "city": "Sapporo",
+        "room_price_per_adult": 240,
+        "room_price_per_child": 120,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Fukuoka Bayview Hotel",
+        "country": "Japan",
+        "city": "Fukuoka",
+        "room_price_per_adult": 210,
+        "room_price_per_child": 105,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Yokohama Harbor Hotel",
+        "country": "Japan",
+        "city": "Yokohama",
+        "room_price_per_adult": 260,
+        "room_price_per_child": 130,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Kobe Skyline Hotel",
+        "country": "Japan",
+        "city": "Kobe",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 125,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Sendai Urban Hotel",
+        "country": "Japan",
+        "city": "Sendai",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Nagasaki Heritage Suites",
+        "country": "Japan",
+        "city": "Nagasaki",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Kanazawa Central Hotel",
+        "country": "Japan",
+        "city": "Kanazawa",
+        "room_price_per_adult": 210,
+        "room_price_per_child": 105,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Nara Temple Hotel",
+        "country": "Japan",
+        "city": "Nara",
+        "room_price_per_adult": 240,
+        "room_price_per_child": 120,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hakone Spa Hotel",
+        "country": "Japan",
+        "city": "Hakone",
+        "room_price_per_adult": 270,
+        "room_price_per_child": 135,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Kawasaki Urban Suites",
+        "country": "Japan",
+        "city": "Kawasaki",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Okinawa Beach Resort",
+        "country": "Japan",
+        "city": "Okinawa",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 125,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Shizuoka Mountain Hotel",
+        "country": "Japan",
+        "city": "Shizuoka",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Gifu Central Suites",
+        "country": "Japan",
+        "city": "Gifu",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Fukushima Garden Hotel",
+        "country": "Japan",
+        "city": "Fukushima",
+        "room_price_per_adult": 210,
+        "room_price_per_child": 105,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Kumamoto Castle Hotel",
+        "country": "Japan",
+        "city": "Kumamoto",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Miyazaki Beach Hotel",
+        "country": "Japan",
+        "city": "Miyazaki",
+        "room_price_per_adult": 240,
+        "room_price_per_child": 120,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Otsu Lakeside Hotel",
+        "country": "Japan",
+        "city": "Otsu",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 125,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Takayama Heritage Suites",
+        "country": "Japan",
+        "city": "Takayama",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Utsunomiya Central Hotel",
+        "country": "Japan",
+        "city": "Utsunomiya",
+        "room_price_per_adult": 210,
+        "room_price_per_child": 105,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Tottori Desert Hotel",
+        "country": "Japan",
+        "city": "Tottori",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Mito City Hotel",
+        "country": "Japan",
+        "city": "Mito",
+        "room_price_per_adult": 200,
+        "room_price_per_child": 100,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Ibaraki Central Suites",
+        "country": "Japan",
+        "city": "Ibaraki",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Himeji Castle Hotel",
+        "country": "Japan",
+        "city": "Himeji",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 125,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Nagoya Urban Suites",
+        "country": "Japan",
+        "city": "Nagoya",
+        "room_price_per_adult": 270,
+        "room_price_per_child": 135,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Kobe City Hotel",
+        "country": "Japan",
+        "city": "Kobe",
+        "room_price_per_adult": 260,
+        "room_price_per_child": 130,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hokkaido Snow Hotel",
+        "country": "Japan",
+        "city": "Hokkaido",
+        "room_price_per_adult": 240,
+        "room_price_per_child": 120,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Naha Beach Resort",
+        "country": "Japan",
+        "city": "Naha",
+        "room_price_per_adult": 250,
+        "room_price_per_child": 125,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Yamagata Central Hotel",
+        "country": "Japan",
+        "city": "Yamagata",
+        "room_price_per_adult": 220,
+        "room_price_per_child": 110,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Kanazawa Heritage Suites",
+        "country": "Japan",
+        "city": "Kanazawa",
+        "room_price_per_adult": 240,
+        "room_price_per_child": 120,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Hiroshima City Hotel",
+        "country": "Japan",
+        "city": "Hiroshima",
+        "room_price_per_adult": 230,
+        "room_price_per_child": 115,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Osaka City Suites",
+        "country": "Japan",
+        "city": "Osaka",
+        "room_price_per_adult": 270,
+        "room_price_per_child": 135,
+        "max_guests": 2
+    },
+    {
+        "hotel_name": "Kyoto Garden Hotel",
+        "country": "Japan",
+        "city": "Kyoto",
+        "room_price_per_adult": 260,
+        "room_price_per_child": 130,
+        "max_guests": 2
+    }
+]

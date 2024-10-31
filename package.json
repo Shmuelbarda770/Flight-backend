@@ -1,0 +1,22 @@
+{
+  "name": "your-project",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@tensorflow/tfjs": "4.21.0",
+    "@tensorflow/tfjs-node": "4.21.0",
+    "axios": "1.7.7",
+    "body-parser": "1.20.3",
+    "cors": "2.8.5",
+    "express": "4.21.0",
+    "express-rate-limit": "7.4.0",
+    "jsonwebtoken": "9.0.2",
+    "mongodb": "6.8.1",
+    "node-fetch": "3.3.2",
+    "node-mailjet": "ֿ6.0.6",
+    "nodemailer": "6.9.15",
+    "nodemon": "3.1.4",
+    "swagger-jsdoc": "6.2.8",
+    "swagger-ui-express": "5.0.1"
+  }
+}

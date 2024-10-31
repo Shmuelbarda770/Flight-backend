@@ -1,0 +1,249 @@
+[
+  {
+    "flightName": "Flight 101",
+    "destination": "New York",
+    "origin": "Los Angeles",
+    "price": 500.00,
+    "profit": 150.00,
+    "employee": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com"
+    },
+    "customer": {
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "email": "alice.smith@example.com",
+      "phoneNumber": "+1234567891"
+    },
+    "purchaseDate": "2024-09-01T10:00:00Z"
+  },
+  {
+    "flightName": "Flight 202",
+    "destination": "Paris",
+    "origin": "London",
+    "price": 600.00,
+    "profit": 200.00,
+    "employee": {
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "email": "jane.doe@example.com"
+    },
+    "customer": {
+      "firstName": "Bob",
+      "lastName": "Brown",
+      "email": "bob.brown@example.com",
+      "phoneNumber": "+1234567892"
+    },
+    "purchaseDate": "2024-09-02T11:30:00Z"
+  },
+  {
+    "flightName": "Flight 303",
+    "destination": "Tokyo",
+    "origin": "San Francisco",
+    "price": 700.00,
+    "profit": 250.00,
+    "employee": {
+      "firstName": "Mike",
+      "lastName": "Johnson",
+      "email": "mike.johnson@example.com"
+    },
+    "customer": {
+      "firstName": "Carol",
+      "lastName": "Wilson",
+      "email": "carol.wilson@example.com",
+      "phoneNumber": "+1234567893"
+    },
+    "purchaseDate": "2024-09-03T14:45:00Z"
+  },
+  {
+    "flightName": "Flight 404",
+    "destination": "Sydney",
+    "origin": "Los Angeles",
+    "price": 800.00,
+    "profit": 300.00,
+    "employee": {
+      "firstName": "Emma",
+      "lastName": "Williams",
+      "email": "emma.williams@example.com"
+    },
+    "customer": {
+      "firstName": "David",
+      "lastName": "Taylor",
+      "email": "david.taylor@example.com",
+      "phoneNumber": "+1234567894"
+    },
+    "purchaseDate": "2024-09-04T09:00:00Z"
+  },
+  {
+    "flightName": "Flight 505",
+    "destination": "Dubai",
+    "origin": "New York",
+    "price": 550.00,
+    "profit": 180.00,
+    "employee": {
+      "firstName": "Alice",
+      "lastName": "Miller",
+      "email": "alice.miller@example.com"
+    },
+    "customer": {
+      "firstName": "Eve",
+      "lastName": "Davis",
+      "email": "eve.davis@example.com",
+      "phoneNumber": "+1234567895"
+    },
+    "purchaseDate": "2024-09-05T16:30:00Z"
+  },
+  {
+    "flightName": "Flight 606",
+    "destination": "Berlin",
+    "origin": "Toronto",
+    "price": 650.00,
+    "profit": 220.00,
+    "employee": {
+      "firstName": "Robert",
+      "lastName": "Brown",
+      "email": "robert.brown@example.com"
+    },
+    "customer": {
+      "firstName": "Nancy",
+      "lastName": "Miller",
+      "email": "nancy.miller@example.com",
+      "phoneNumber": "+1234567896"
+    },
+    "purchaseDate": "2024-09-06T12:00:00Z"
+  },
+  {
+    "flightName": "Flight 707",
+    "destination": "Rome",
+    "origin": "Madrid",
+    "price": 500.00,
+    "profit": 160.00,
+    "employee": {
+      "firstName": "Sarah",
+      "lastName": "Jones",
+      "email": "sarah.jones@example.com"
+    },
+    "customer": {
+      "firstName": "George",
+      "lastName": "Clark",
+      "email": "george.clark@example.com",
+      "phoneNumber": "+1234567897"
+    },
+    "purchaseDate": "2024-09-07T10:30:00Z"
+  },
+  {
+    "flightName": "Flight 808",
+    "destination": "Hong Kong",
+    "origin": "Singapore",
+    "price": 750.00,
+    "profit": 270.00,
+    "employee": {
+      "firstName": "Paul",
+      "lastName": "Garcia",
+      "email": "paul.garcia@example.com"
+    },
+    "customer": {
+      "firstName": "Laura",
+      "lastName": "Martin",
+      "email": "laura.martin@example.com",
+      "phoneNumber": "+1234567898"
+    },
+    "purchaseDate": "2024-09-08T13:00:00Z"
+  },
+  {
+    "flightName": "Flight 909",
+    "destination": "Seoul",
+    "origin": "Beijing",
+    "price": 670.00,
+    "profit": 230.00,
+    "employee": {
+      "firstName": "Laura",
+      "lastName": "Rodriguez",
+      "email": "laura.rodriguez@example.com"
+    },
+    "customer": {
+      "firstName": "Michael",
+      "lastName": "Walker",
+      "email": "michael.walker@example.com",
+      "phoneNumber": "+1234567899"
+    },
+    "purchaseDate": "2024-09-09T15:30:00Z"
+  },
+  {
+    "flightName": "Flight 1010",
+    "destination": "Mumbai",
+    "origin": "Dubai",
+    "price": 560.00,
+    "profit": 190.00,
+    "employee": {
+      "firstName": "Kevin",
+      "lastName": "Lee",
+      "email": "kevin.lee@example.com"
+    },
+    "customer": {
+      "firstName": "Sophie",
+      "lastName": "Young",
+      "email": "sophie.young@example.com",
+      "phoneNumber": "+1234567800"
+    },
+    "purchaseDate": "2024-09-10T11:15:00Z"
+  },
+  {
+    "flightName": "Flight 1111",
+    "destination": "Toronto",
+    "origin": "Boston",
+    "price": 540.00,
+    "profit": 200.00,
+    "employee": {
+      "firstName": "Olivia",
+      "lastName": "Hall",
+      "email": "olivia.hall@example.com"
+    },
+    "customer": {
+      "firstName": "Daniel",
+      "lastName": "King",
+      "email": "daniel.king@example.com",
+      "phoneNumber": "+1234567801"
+    },
+    "purchaseDate": "2024-09-11T12:45:00Z"
+  },
+  {
+    "flightName": "Flight 1212",
+    "destination": "Buenos Aires",
+    "origin": "Miami",
+    "price": 650.00,
+    "profit": 210.00,
+    "employee": {
+      "firstName": "Sophia",
+      "lastName": "Scott",
+      "email": "sophia.scott@example.com"
+    },
+    "customer": {
+      "firstName": "Ella",
+      "lastName": "Adams",
+      "email": "ella.adams@example.com",
+      "phoneNumber": "+1234567802"
+    },
+    "purchaseDate": "2024-09-12T14:00:00Z"
+  },
+  {
+    "flightName": "Flight 1313",
+    "destination": "Cape Town",
+    "origin": "Johannesburg",
+    "price": 700.00,
+    "profit": 250.00,
+    "employee": {
+      "firstName": "Mason",
+      "lastName": "Wilson",
+      "email": "mason.wilson@example.com"
+    },
+    "customer": {
+      "firstName": "James",
+      "lastName": "Thompson",
+      "email": "james.thompson@example.com",
+      "phoneNumber": "+1234567803"
+    },
+    "purchaseDate": "2024-09-13T10:00:00Z"
+  }
+]
